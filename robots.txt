@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-07m3h8.date-me.pro/sitemap.xml
